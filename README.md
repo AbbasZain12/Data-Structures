@@ -1,4 +1,4 @@
 # Data-Structures
 This is my first git repository.
 <br>
-Author - Zain Abbas
+Author - M Zain Abbas
